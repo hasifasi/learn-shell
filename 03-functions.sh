@@ -14,7 +14,7 @@ sample
 # $* - All arguments
 # $# - No of arguments
 
-sampeTwo(){
+sampleTwo(){
   echo First Arg - $1
   echo ALl Args - $*
   echo Arg Cound - $#
