@@ -13,3 +13,11 @@ sample
 # $1 - $n
 # $* - All arguments
 # $# - No of arguments
+
+sampeTwo(){
+  echo First Arg - $1
+  echo ALl Args - $*
+  echo Arg Cound - $#
+}
+
+sample1 "Hello World" abc 123
