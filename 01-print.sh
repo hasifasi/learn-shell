@@ -1,7 +1,7 @@
 
 # echo or printf command is used to print
 echo "I love U"
-printf " Print I love U"
+printf " Print I love U\n"
 
 #print colors
 #sysntax: echo -e "\e[COLmHello World\e[0m"
