@@ -20,4 +20,4 @@ sampeTwo(){
   echo Arg Cound - $#
 }
 
-sample1 "Hello World" abc 123
+sampleTwo "Hello World" abc 123
