@@ -17,7 +17,7 @@ printf " Print I love U"
 # MAGENTA   - 35
 # CYAN      - 36
 
-echo -e "\e[35mHello World\[e0m"
+echo -e "\e[35mHello World\e[0m"
 echo -e "\e[33m  Hello space World  \e[0m"
 
 
